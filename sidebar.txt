@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mop:home|Door43 (mop)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mop|d43-mop repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mop/archive/master.zip|d43-mop.zip]]
+
+**Recent Changes**
+{{changes>ns = mop}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mop|Ethnologue data]]
+
